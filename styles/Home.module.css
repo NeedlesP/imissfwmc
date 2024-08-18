@@ -103,8 +103,8 @@
 }
 
 .pastStreamInfo {
-    background: rgb(174, 250, 197);
-    border-color: rgb(130, 206, 147);
+    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    border-color: rgb(0, 0, 0);
     text-align: center;
 }
 
@@ -126,8 +126,8 @@
 
 .bigButton {
     display: block;
-    background: linear-gradient(rgb(70, 200, 101) 0%, rgb(36, 175, 66) 100%);
-    border: 1px solid #247938;
+    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    border: 1px solid #000000;
     border-radius: 6px;
     padding: 0.8rem;
     margin: 2rem auto;
