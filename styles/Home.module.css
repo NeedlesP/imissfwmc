@@ -126,7 +126,7 @@
 
 .bigButton {
     display: block;
-    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    background: linear-gradient(68.6deg, #fca5f1 1.8%, #b5ffff 100.5%); 
     border: 1px solid #000000;
     border-radius: 6px;
     padding: 0.8rem;
