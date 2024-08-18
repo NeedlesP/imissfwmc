@@ -3,18 +3,18 @@ const AllStrings = {}
 // To add a new language, copypaste starting from this line...
 AllStrings["en"] = {
     CommonMetadata: {
-        HeaderSMTitle: "I MISS FAUNA",
-        FooterText: "Not affiliated with Fauna or hololive - Past stream data provided by Holodex - {0}",
+        HeaderSMTitle: "I MISS FWMC",
+        FooterText: "Not affiliated with FuwaMoco or hololive - Past stream data provided by Holodex - {0}",
         FooterSourceLink: "Source",
-        FooterStreamerLink: "Ceres Fauna Ch. hololive-EN"
+        FooterStreamerLink: "FUWAMOCO Ch. hololive-EN"
     },
 
     Main: {
-        PageTitle: "I MISS FAUNA",
-        DontMissCaption: "I Don't Miss Fauna",
+        PageTitle: "I MISS FWMC",
+        DontMissCaption: "I Don't Miss FWMC",
         ImageAlt: "Meme",
         RandomVodLink: "Do your reps",
-        ErrorMessageChannelLink: "You can check Fauna's channel yourself",
+        ErrorMessageChannelLink: "You can check FWMC's channel yourself",
         ErrorOccurred: "There was a problem checking stream status. {0}!",
         Embed: {
             TextLive: "Streaming: {0}",
@@ -28,14 +28,14 @@ AllStrings["en"] = {
         StatusStartingSoon: "Starting Soon",
         StatusStreamQueued: "Next Stream",
         NoStreamDummyStatus: "Current Stream",
-        NoStreamDummyTitle: "NOTHING UUUUUUUuuuuuu",
-        MembersOnlySubtext: "(for Faunatics only!)",
+        NoStreamDummyTitle: "NOTHING BAUBAU",
+        MembersOnlySubtext: "(for Ruffians only!)",
         ThumbnailAltText: "Video Thumbnail"
     },
 
     Reps: {
         PageTitle: "Do your reps!",
-        SMMetaDescription: "Get a random Fauna VOD to watch!",
+        SMMetaDescription: "Get a random FWMC VOD to watch!",
         VodInfoUploadDate: "Streamed or uploaded on {0}",
         PageCaption: "Watch this one!",
         RerollButton: "Reroll",
@@ -61,7 +61,7 @@ AllStrings["en"] = {
         PastStream: {
             immediate: "",
             forFuture: "",
-            forPast: `%@ without Fauna`,
+            forPast: `%@ without FWMC`,
             days: (days) => (days > 1 ? `${days} days` : `${days} day`),
             hours: (hours) => (hours > 1 ? `${hours} hours` : `${hours} hour`),
             minutes: (minutes) => (minutes > 1 ? `${minutes} minutes` : `${minutes} minute`),
