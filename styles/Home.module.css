@@ -31,8 +31,8 @@
 }
 
 .streamInfo {
-    background: linear-gradient(rgba(140, 247, 172, 0.3) 0%, rgb(140, 247, 172) 100%);
-    border: 1px solid rgb(117, 207, 137);
+    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 6px;
     padding: 0.8rem;
     margin: 2rem auto;
@@ -44,7 +44,7 @@
 .videoBox img {
     margin-left: 0.8rem;
     border-radius: 3px;
-    border: 1px solid rgb(117, 207, 137);
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .videoBox a {
@@ -75,7 +75,7 @@
 .videoBoxCaption {
     font-size: 80%;
     font-weight: bold;
-    color: rgb(66, 105, 90);
+    color: rgb(99, 33, 33);
     text-transform: uppercase;
 }
 
