@@ -31,7 +31,7 @@
 }
 
 .streamInfo {
-    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    background: rgb(252, 165, 241);
     border: 1px solid rgb(0, 0, 0);
     border-radius: 6px;
     padding: 0.8rem;
@@ -103,7 +103,7 @@
 }
 
 .pastStreamInfo {
-    background: linear-gradient(68.6deg, rgb(252, 165, 241) 1.8%, rgb(181, 255, 255) 100.5%); 
+    background: rgb(252, 165, 241);
     border-color: rgb(0, 0, 0);
     text-align: center;
 }
