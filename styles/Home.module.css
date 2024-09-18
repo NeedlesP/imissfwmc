@@ -32,7 +32,7 @@
 }
 
 .streamInfo {
-    background: rgb(252, 165, 241);
+    background: #ea9ab2;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 6px;
     padding: 0.8rem;
@@ -76,7 +76,7 @@
 .videoBoxCaption {
     font-size: 80%;
     font-weight: bold;
-    color: rgb(99, 33, 33);
+    color: #1b2021;
     text-transform: uppercase;
 }
 
